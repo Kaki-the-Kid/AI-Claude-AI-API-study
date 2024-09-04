@@ -54,3 +54,4 @@ In this comprehensive course, I will dive deep into Claude 3.5, Anthropic's cutt
 * [anthropic api workbench](https://console.anthropic.com)
 * [GitHub: anthropics / anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook/tree/main)
 * [Zapier: Claude API: How to get a key and use the API](https://zapier.com/blog/claude-api/)
+* [GitHub: KoushikNavuluri / Claude-API]()](https://github.com/KoushikNavuluri/Claude-API)
