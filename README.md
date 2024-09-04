@@ -58,6 +58,4 @@ Individuals and hobbyists are welcome to use the Anthropic API. However, please 
 * [GitHub: anthropics / anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook/tree/main)
 * [Zapier: Claude API: How to get a key and use the API](https://zapier.com/blog/claude-api/)
 * [GitHub: KoushikNavuluri / Claude-API]()](https://github.com/KoushikNavuluri/Claude-API)
-* 
-Get started
-Initial setup
+* [anthropics / anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook/tree/main)
