@@ -7,6 +7,9 @@ Claude is an advanced language model developed by Anthropic, designed with a foc
 ## Description
 In this comprehensive course, I will dive deep into Claude 3.5, Anthropic's cutting-edge language model. Whether I am an experienced developer or just beginning my coding journey, this course will equip me with the skills to create intelligent, responsive, and innovative applications that leverage the full capabilities of Claude 3.5. Through this project, I will focus on implementing advanced features such as image processing, streaming responses, and JSON-based functionalities to build a robust system that can handle real-world tasks efficiently.
 
+## Availability
+Individuals and hobbyists are welcome to use the Anthropic API. However, please note that use of the API is subject to our Commercial Terms of Service, regardless of whether you are an individual or representing a company.
+
 ### Sektion 1: Introduktion til Claude 3.5 API
 
 * Code Files Download and preparations
