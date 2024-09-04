@@ -31,7 +31,7 @@ In this comprehensive course, I will dive deep into Claude 3.5, Anthropic's cutt
 * Generating Code from Image Inputs with Claude 3.5
 * Handling and Comparing Multiple Images in Claude 3.5 API
 
-Sektion 4: JSON og funktionskald
+### Sektion 4: JSON og funktionskald
 
 * Introduction to JSON Mode in Claude 3.5 API
 * Prefilling JSON Structures for Enhanced Claude 3.5 Responses
