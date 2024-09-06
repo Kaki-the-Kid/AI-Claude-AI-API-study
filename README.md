@@ -51,6 +51,25 @@ Individuals and hobbyists are welcome to use the Anthropic API. However, please 
 * Creating Tools
 * Performing In-Depth Stock Analysis using Claude 3.5 Capabilities
 
+## Suggestions for projects/prompts
+0:41 - Ai Foundations Community
+* Interactive dashboard from PDF
+* Visualize anything with animations
+* Animations from a static image
+* Create web applications 
+* Game creation
+* 8-bit images
+* 3D simulations
+* Comparing data
+* System architectures
+* SEO application build
+* Object detection system real-time
+* Card counting simulator and advanced reasoning
+* Creating mind maps
+* Interactive posters for deep learning and research
+* Templatizing prompts for Claude projects
+* The Best Way to Learn AI
+
 ## References
 * [Build Cool Stuff with Anthropic Claude 3.5 Python API](https://www.youtube.com/watch?v=iv4B-axkSf8)
 * For more information, visit the [Wikipedia page](https://en.wikipedia.org/wiki/Claude_(language_model))
