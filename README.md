@@ -70,6 +70,12 @@ Individuals and hobbyists are welcome to use the Anthropic API. However, please 
 * Templatizing prompts for Claude projects
 * The Best Way to Learn AI
 
+## Tips for prompting
+
+* Split tasks
+* Use images for context
+* Upload website documentation
+
 ## References
 * [Build Cool Stuff with Anthropic Claude 3.5 Python API](https://www.youtube.com/watch?v=iv4B-axkSf8)
 * For more information, visit the [Wikipedia page](https://en.wikipedia.org/wiki/Claude_(language_model))
