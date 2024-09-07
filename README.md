@@ -79,6 +79,7 @@ Individuals and hobbyists are welcome to use the Anthropic API. However, please 
 ## References
 * [Build Cool Stuff with Anthropic Claude 3.5 Python API](https://www.youtube.com/watch?v=iv4B-axkSf8)
 * For more information, visit the [Wikipedia page](https://en.wikipedia.org/wiki/Claude_(language_model))
+* [Anthropic Initial setup](https://docs.anthropic.com/en/docs/initial-setup)
 * [anthropic api workbench](https://console.anthropic.com)
 * [GitHub: anthropics / anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook/tree/main)
 * [Zapier: Claude API: How to get a key and use the API](https://zapier.com/blog/claude-api/)
